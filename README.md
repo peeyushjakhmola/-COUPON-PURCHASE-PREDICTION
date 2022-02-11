@@ -1,4 +1,4 @@
-# -COUPON-PURCHASE-PREDICTION 
+# COUPON PURCHASE PREDICTION 
 Problem Statement
 You are hired as a data scientist at a leading shopping mall in the country. The shopping mall has tied
 up with different restaurants/bars to provide discount coupons to all its customers. The coupons
